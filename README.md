@@ -3,7 +3,7 @@ This Repository contains the work done under this project (IE Second Year Projec
 
 ## macchanger.py ##
 This program is used to change the mac address of the linux machine.  
-Run `./macchanger.py` --help for usage
+Run ``./macchanger.py --help`` for usage
 
 ### Options:  ###
     -h, --help            show this help message and exit  
