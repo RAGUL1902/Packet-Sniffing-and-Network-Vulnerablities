@@ -15,3 +15,8 @@ Run ``./macchanger.py --help`` for usage
                           option 1 for custom mac, 2 for random mac  
     -t WAIT_TIME, --time=WAIT_TIME  
                           Enter time in seconds to change random mac  
+                            
+## networkScanner.py ##
+This program is used to scan the network for the available ip addresses using arp pinging.  
+A python package called scapy is used for this.  
+Run ``./networkScanner.py`` and enter the range of ip address as input asked by the program
